@@ -5,3 +5,5 @@ export interface User{
     email: string;
     role: string;
 }
+
+export const users: User[] = [];
